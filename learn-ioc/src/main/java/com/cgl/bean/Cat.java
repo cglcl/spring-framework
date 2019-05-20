@@ -7,4 +7,8 @@ package com.cgl.bean;
  * @date 2019/5/17 15:49
  */
 public class Cat {
+
+	public Cat() {
+		System.out.println("Cat constructor");
+	}
 }
